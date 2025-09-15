@@ -159,6 +159,10 @@ def main(html):
             #Convert headlines to a list of dictionaries
             save_in_csv(articles, "articles.csv")
 
+    elif option == "3":
+        print("Goodbye")
+        return
+
     else:
         print ("Invalid option")
 
