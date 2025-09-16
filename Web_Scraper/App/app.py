@@ -121,7 +121,7 @@ def main(html):
     
     print("Website downloaded successfully!")
     
-    print("n\Options:")
+    print("\nOptions:")
     print("1. Extract headlines")
     print("2. Extract articles")
     print("3. Exit")
@@ -162,7 +162,6 @@ def main(html):
     elif option == "3":
         print("Goodbye")
         return
-
     else:
         print ("Invalid option")
 
