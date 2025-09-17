@@ -23,6 +23,7 @@ ________________________________________________________________________________
 
 ### 📂 Project Structure ###
 Data-Analyzer/
+
 │── app.py                # Main program
 │── README.md             # Project documentation
 │── requirements.txt      # Python dependencies (optional)
