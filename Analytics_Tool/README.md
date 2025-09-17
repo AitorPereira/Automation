@@ -36,8 +36,11 @@ ________________________________________________________________________________
 ### 🛠️ Requirements ###
 
 •Python 3.8+
+
 •Libraries:
+
   -matplotlib
+  
   -statistics (comes with Python standard library)
 
 You can install dependencies with:
@@ -51,7 +54,9 @@ python app.py
 Example Flow:
 
 1.Enter the path of a CSV file.
+
 2.View dataset summary.
+
 3.Choose an option from the interactive menu:
   •Analyze numeric column → shows statistics.
   •Generate bar chart → average of Y by X.
@@ -73,12 +78,15 @@ Row 2: {'age': 30, 'height': 180, 'weight': 82, 'gender': 'F', 'score': 90}
 Chart Example:
 
 •Bar Chart (Average score by gender)
+
 •Line Chart (Average weight by age)
 _____________________________________________________________________________________________________________________________________________________________________________________
 ### 📌 Next Steps ###
 
 •Add support for exporting charts as images.
+
 •Handle missing values more robustly.
+
 •Extend analysis with correlation or trend detection.
 
 _____________________________________________________________________________________________________________________________________________________________________________________
