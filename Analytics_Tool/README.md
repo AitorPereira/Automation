@@ -59,12 +59,12 @@ Example Flow:
 
 3.Choose an option from the interactive menu:
 
-  •Analyze numeric column → shows statistics.
-  
-  •Generate bar chart → average of Y by X.
-  
-  •Generate line chart → average of Y by X over time/sequence.
-  •Exit
+      •Analyze numeric column → shows statistics.
+      
+      •Generate bar chart → average of Y by X.
+      
+      •Generate line chart → average of Y by X over time/sequence.
+      •Exit
 _____________________________________________________________________________________________________________________________________________________________________________________
 ### 📈 Example Output ###
 Data Summary:
