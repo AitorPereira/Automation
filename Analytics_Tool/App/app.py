@@ -1,10 +1,7 @@
 import os
 import csv
 import statistics
-from tracemalloc import Statistic
-import matplotlib
 import matplotlib.pyplot as plt
-from numpy import minimum
 
 def load_data_csv(file_path):
     """
