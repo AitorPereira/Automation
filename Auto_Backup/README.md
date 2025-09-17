@@ -27,21 +27,27 @@ Follow the prompts:
 _____________________________________________________________________________________________________________________________________________________________________________________
 ## 📈 Example output:
 
-=== AUTO BACKUP ===
-Insert the origin folder you want to backup: ./my_project
-Insert the destination folder where you want to save the backup (leave it empty to use './backups' as default): 
-Creating backup in './backups/backup_20250917_143022.zip'...
-Added: my_project/file1.txt
-Added: my_project/file2.py
-Backup Completed: ./backups/backup_20250917_143022.zip
-
-Backup size: 1.45 MB
-Backup completed successfully!
+    === AUTO BACKUP ===
+    
+    Insert the origin folder you want to backup: ./my_project
+    
+    Insert the destination folder where you want to save the backup (leave it empty to use './backups' as default): 
+    
+    Creating backup in './backups/backup_20250917_143022.zip'...
+    
+    Added: my_project/file1.txt
+    Added: my_project/file2.py
+    Backup Completed: ./backups/backup_20250917_143022.zip
+    
+    Backup size: 1.45 MB
+    Backup completed successfully!
 _____________________________________________________________________________________________________________________________________________________________________________________
 ## 🧩 Functions Overview
 
 •create_backup_name(): Generates a timestamped backup filename.
+
 •create_backup(origin_folder, destination_folder): Creates the ZIP backup of the given folder.
+
 •main(): Interactive script interface.
 _____________________________________________________________________________________________________________________________________________________________________________________
 ## 📜 License
