@@ -1,10 +1,10 @@
-# 📊 Data Analyzer
+# 📊 Data Analyzer #
 
 Data Analyzer is a Python application that allows you to analyze CSV files interactively.
 It provides tools to explore datasets, calculate statistics, and generate bar or line charts from numeric columns.
 ____________________________________________________________________________________________________________________________________________________________________________________
 
-## 🚀 Features
+## 🚀 Features ##
 
 •Load CSV files and parse data into dictionaries.
 
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________________________________________
 
-### 📂 Project Structure
+### 📂 Project Structure ###
 Data-Analyzer/
 │── app.py                # Main program
 │── README.md             # Project documentation
