@@ -39,9 +39,9 @@ ________________________________________________________________________________
 
 •Libraries:
 
-  -matplotlib
+    -matplotlib
   
-  -statistics (comes with Python standard library)
+    -statistics (comes with Python standard library)
 
 You can install dependencies with:
 pip install matplotlib
