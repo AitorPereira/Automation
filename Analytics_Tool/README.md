@@ -2,7 +2,6 @@
 
 Data Analyzer is a Python application that allows you to analyze CSV files interactively.
 It provides tools to explore datasets, calculate statistics, and generate bar or line charts from numeric columns.
-____________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🚀 Features ##
 
@@ -20,8 +19,6 @@ ________________________________________________________________________________
 
 •Interactive menu for easy navigation.
 
-____________________________________________________________________________________________________________________________________________________________________________________
-
 ### 📂 Project Structure ###
 Data-Analyzer/
 │── app.py                # Main program
@@ -29,9 +26,7 @@ Data-Analyzer/
 │── requirements.txt      # Python dependencies (optional)
 │── sample_data.csv       # Example dataset
 
-____________________________________________________________________________________________________________________________________________________________________________________
-
-### 🛠️ Requirements
+### 🛠️ Requirements ###
 
 •Python 3.8+
 •Libraries:
@@ -41,9 +36,7 @@ ________________________________________________________________________________
 You can install dependencies with:
 pip install matplotlib
 
-____________________________________________________________________________________________________________________________________________________________________________________
-
-### ▶️ Usage
+### ▶️ Usage ###
 
 Run the application from the terminal:
 python app.py
@@ -57,9 +50,8 @@ Example Flow:
   •Generate bar chart → average of Y by X.
   •Generate line chart → average of Y by X over time/sequence.
   •Exit
-____________________________________________________________________________________________________________________________________________________________________________________
 
-### 📈 Example Output
+### 📈 Example Output ###
 Data Summary:
 
 === DATA SUMMARY ===
@@ -75,15 +67,13 @@ Chart Example:
 
 •Bar Chart (Average score by gender)
 •Line Chart (Average weight by age)
-____________________________________________________________________________________________________________________________________________________________________________________
 
-### 📌 Next Steps
+### 📌 Next Steps ###
 
 •Add support for exporting charts as images.
 •Handle missing values more robustly.
 •Extend analysis with correlation or trend detection.
-____________________________________________________________________________________________________________________________________________________________________________________
 
-### 📜 License
+### 📜 License ###
 
 This project is open-source under the MIT License.
