@@ -5,19 +5,13 @@ It provides tools to explore datasets, calculate statistics, and generate bar or
 
 ## 🚀 Features ##
 
-•Load CSV files and parse data into dictionaries.
-
-•Display dataset summary (rows, columns, first 5 records).
-
-•Analyze numeric columns with key statistics:
-
-•Minimum, Maximum, Sum, Average, Median, Standard Deviation.
-
-•Group values by one column and calculate averages for another.
-
-•Generate Bar Charts and Line Charts using matplotlib.
-
-•Interactive menu for easy navigation.
+- Load CSV files and parse data into dictionaries.
+- Display dataset summary (rows, columns, first 5 records).
+- Analyze numeric columns with key statistics:
+- Minimum, Maximum, Sum, Average, Median, Standard Deviation.
+- Group values by one column and calculate averages for another.
+- Generate Bar Charts and Line Charts using matplotlib.
+- Interactive menu for easy navigation.
 
 _____________________________________________________________________________________________________________________________________________________________________________________
 
