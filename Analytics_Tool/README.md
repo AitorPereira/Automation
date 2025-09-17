@@ -43,7 +43,8 @@ ________________________________________________________________________________
 ### ▶️ Usage ###
 
 Run the application from the terminal:
-python app.py
+
+    python app.py
 
 Example Flow:
 
