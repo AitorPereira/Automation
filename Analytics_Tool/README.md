@@ -19,6 +19,8 @@ It provides tools to explore datasets, calculate statistics, and generate bar or
 
 •Interactive menu for easy navigation.
 
+_____________________________________________________________________________________________________________________________________________________________________________________
+
 ### 📂 Project Structure ###
 Data-Analyzer/
 │── app.py                # Main program
@@ -26,6 +28,7 @@ Data-Analyzer/
 │── requirements.txt      # Python dependencies (optional)
 │── sample_data.csv       # Example dataset
 
+_____________________________________________________________________________________________________________________________________________________________________________________
 ### 🛠️ Requirements ###
 
 •Python 3.8+
@@ -35,7 +38,7 @@ Data-Analyzer/
 
 You can install dependencies with:
 pip install matplotlib
-
+_____________________________________________________________________________________________________________________________________________________________________________________
 ### ▶️ Usage ###
 
 Run the application from the terminal:
@@ -50,7 +53,7 @@ Example Flow:
   •Generate bar chart → average of Y by X.
   •Generate line chart → average of Y by X over time/sequence.
   •Exit
-
+_____________________________________________________________________________________________________________________________________________________________________________________
 ### 📈 Example Output ###
 Data Summary:
 
@@ -67,7 +70,7 @@ Chart Example:
 
 •Bar Chart (Average score by gender)
 •Line Chart (Average weight by age)
-
+_____________________________________________________________________________________________________________________________________________________________________________________
 ### 📌 Next Steps ###
 
 •Add support for exporting charts as images.
