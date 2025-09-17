@@ -58,8 +58,11 @@ Example Flow:
 2.View dataset summary.
 
 3.Choose an option from the interactive menu:
+
   •Analyze numeric column → shows statistics.
+  
   •Generate bar chart → average of Y by X.
+  
   •Generate line chart → average of Y by X over time/sequence.
   •Exit
 _____________________________________________________________________________________________________________________________________________________________________________________
@@ -71,7 +74,9 @@ Rows: 500
 Columns: age, height, weight, gender, score
 
 First 5 rows:
+
 Row 1: {'age': 25, 'height': 175, 'weight': 70, 'gender': 'M', 'score': 85}
+
 Row 2: {'age': 30, 'height': 180, 'weight': 82, 'gender': 'F', 'score': 90}
 ...
 
