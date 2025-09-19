@@ -4,7 +4,7 @@ Welcome! 👋
 This repo is part of my Python collection 📦  
 Or in other words: a collection of projects for automation, data analysis, AI experiments, and backend utilities.
 
-🚀 Tech Stack
+### 🚀 Tech Stack
 
 •	Core: Python 3.8+
 
@@ -19,7 +19,7 @@ Or in other words: a collection of projects for automation, data analysis, AI ex
 
 ⸻
 
-### 📂 Projects Overview
+## 📂 Projects Overview
 
 1. 🗂️ Auto Backup
 
@@ -64,7 +64,7 @@ Scrape headlines and articles from any website and save them into CSV.
 
 ⸻
 
-### 💡 Why this repo?
+## 💡 Why this repo?
 
 This portfolio is a mix of learning projects + practical utilities. Each app was built to:  
 ✔️ Improve my Python skills.  
