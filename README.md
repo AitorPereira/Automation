@@ -1,8 +1,8 @@
 # 🧰 Python Collection: Automation, Data & Web Apps
 
 Welcome! 👋
-
-This repo is part of my Python collection 📦 Or in other words: a collection of projects for automation, data analysis, AI experiments, and backend utilities.
+This repo is part of my Python collection 📦
+Or in other words: a collection of projects for automation, data analysis, AI experiments, and backend utilities.
 
 🚀 Tech Stack
 
