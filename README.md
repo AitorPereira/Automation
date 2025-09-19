@@ -1,6 +1,6 @@
-# 🧰 Python Toolbox: Automation, Data & Web Apps
+# 🧰 Python Collection: Automation, Data & Web Apps
 
-Welcome! 👋 This repo is my Python toolbox 🛠️ — a collection of projects for automation, data analysis, AI experiments, and backend utilities.
+Welcome! 👋 This repo is my Python toolbox 🛠️ Or in other words: a collection of projects for automation, data analysis, AI experiments, and backend utilities.
 
 🚀 Tech Stack
 
