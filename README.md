@@ -4,13 +4,17 @@ Welcome! 👋 This repository is a collection of my Python projects — each one
 Think of this repo as my personal toolbox 🛠️ + learning lab 🧪, where I’ve been experimenting with automation, data analysis, AI-related tools, and backend utilities.
 
 🚀 Tech Stack
-	•	Core: Python 3.8+
-	•	Libraries Used:
-	    - requests, beautifulsoup4
-	    - matplotlib
-	    - pillow
-	    - statistics (stdlib)
-	•	Concepts Explored: Automation, data analysis, CSV parsing, web scraping, file handling, and basic backend logic.
+
+•	Core: Python 3.8+
+
+•	Libraries Used:
+
+  - requests, beautifulsoup4
+  - matplotlib
+  - pillow
+  - statistics (stdlib)
+	 
+•	Concepts Explored: Automation, data analysis, CSV parsing, web scraping, file handling, and basic backend logic.
 
  Each project has its own README.md with detailed instructions, but here’s a quick overview:
 
