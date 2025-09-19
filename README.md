@@ -1,4 +1,4 @@
-# 🧰 Python Projects Portfolio
+# 🧰 Python Toolbox: Automation, Data & Web Apps
 
 Welcome! 👋 This repository is a collection of my Python projects — each one designed to solve a problem, automate a task, or explore a new concept.
 Think of this repo as my personal toolbox 🛠️ + learning lab 🧪, where I’ve been experimenting with automation, data analysis, AI-related tools, and backend utilities.
@@ -24,7 +24,6 @@ Automatically create timestamped ZIP backups of any folder.
 🔹 Useful for keeping projects organized and safe.
 📌 [See details](https://github.com/AitorPereira/Automation/tree/main/Auto_Backup)
 
-⸻
 
 2. 📂 Auto File Mover
 
@@ -32,7 +31,6 @@ Organize files by automatically moving them into timestamped folders.
 🔹 Great for decluttering directories and managing data.
 📌 [See details](https://github.com/AitorPereira/Automation/tree/main/Auto_File_Mover)
 
-⸻
 
 3. 📊 Data Analyzer
 
@@ -40,7 +38,6 @@ Interactive CLI app to explore CSVs: calculate stats, group values, and generate
 🔹 Your quick data-analysis assistant.
 📌 [See details](https://github.com/AitorPereira/Automation/tree/main/Data_Analyzer)
 
-⸻
 
 4. 🖼️ Image Converter
 
@@ -48,7 +45,6 @@ Convert images between formats (JPG, PNG, WEBP, etc.) using Pillow.
 🔹 Works on single images or full folders.
 📌 [See details](https://github.com/AitorPereira/Automation/tree/main/Image_Converter)
 
-⸻
 
 5. 🚨 Price Notifier 💰
 
@@ -56,7 +52,6 @@ Track product prices from websites and get notified when they hit your target.
 ⚠️ Works with static HTML pages (dynamic content may need Selenium/Playwright).
 📌 [See details](https://github.com/AitorPereira/Automation/tree/main/Price_Notifier)
 
-⸻
 
 6. 🌐 Basic Web Scraper
 
@@ -81,4 +76,4 @@ All projects are licensed under the MIT License.
 
 ⸻
 
-✨ Thanks for checking out my work! If you’d like to collaborate, improve a tool, or just chat about Python & automation, feel free to connect with me on LinkedIn or open an issue in this repo.
+✨ Thanks for checking out my work! If you’d like to collaborate, improve a tool, or just chat about Python & automation, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aitor-pereira-romero/) or open an issue in this repo.
