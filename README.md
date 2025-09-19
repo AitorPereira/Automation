@@ -6,15 +6,12 @@ Or in other words: a collection of projects for automation, data analysis, AI ex
 
 ### 🚀 Tech Stack
 
-•	Core: Python 3.8+
-
-•	Libraries Used:
-
+•	Core: Python 3.8+  
+•	Libraries Used:  
   - requests, beautifulsoup4
   - matplotlib
   - pillow
-  - statistics (stdlib)
-	 
+  - statistics (stdlib)  
 •	Concepts Explored: Automation, data analysis, CSV parsing, web scraping, file handling, and basic backend logic.
 
 ⸻
