@@ -16,8 +16,6 @@ Think of this repo as my personal toolbox 🛠️ + learning lab 🧪, where I�
 	 
 •	Concepts Explored: Automation, data analysis, CSV parsing, web scraping, file handling, and basic backend logic.
 
- Each project has its own README.md with detailed instructions, but here’s a quick overview:
-
 ⸻
 
 ### 📂 Projects Overview
